@@ -322,7 +322,6 @@ hr {
 .main_fullwidth.block_6 .container_v .flags {
   display: flex;
   justify-content: center;
-  column-gap: 20px;
   margin: 72px 0 120px;
   gap: 20px;
 }
